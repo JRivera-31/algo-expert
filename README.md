@@ -1,1 +1,1 @@
-# Solutions from algoexpert.io
+# Solutions for interview questions on algoexpert.io
